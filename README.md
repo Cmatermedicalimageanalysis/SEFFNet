@@ -12,10 +12,20 @@ This is the official implementation of "SEFFNet: snapshot ensemble-based feature
 <br>
 <h2>Results:</h2>
 
-![WhatsApp Image 2026-01-13 at 4 08 46 PM](https://github.com/user-attachments/assets/4d05a2f4-8dcf-490f-b1f3-002cdb3f0375)
-
-
-![WhatsApp Image 2026-01-13 at 4 09 16 PM](https://github.com/user-attachments/assets/9ed5f6f3-3af7-4714-b467-6e285e55fa12)
-
+<br> 
+A) t-SNE plots obtained at different snapshots on the HAM10000 dataset
+<br>
 
 ![WhatsApp Image 2026-01-13 at 4 09 51 PM](https://github.com/user-attachments/assets/eefcfc59-ad4d-42cf-aad0-9b7c885762c0)
+
+<br>
+B) t-SNE plots obtained at different snapshots on the ISIC 2017 dataset
+<br>
+
+![WhatsApp Image 2026-01-13 at 4 08 46 PM](https://github.com/user-attachments/assets/4d05a2f4-8dcf-490f-b1f3-002cdb3f0375)
+
+<br>
+C) Grad-CAM results on various samples images
+<br>
+
+![WhatsApp Image 2026-01-13 at 4 09 16 PM](https://github.com/user-attachments/assets/9ed5f6f3-3af7-4714-b467-6e285e55fa12)
