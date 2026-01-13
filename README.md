@@ -6,4 +6,8 @@ This is the official implementation of "SEFFNet: snapshot ensemble-based feature
 <br>
 <h2>Overall Workflow:</h2>
 <br>
+
+![overall_architecture](https://github.com/user-attachments/assets/9831301b-b9ed-4d2a-a2d6-0b8047bd17fa)
+
+<br>
 <h2>Results:</h2>
